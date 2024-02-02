@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
 ![SisypheanHUS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SisypheanHUS&theme=tokyonight&hide_border=true)
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
