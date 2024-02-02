@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🤔 I'am studying at Ha Noi University of Science (HUS)
+- 🌱 I’m currently learning Java and Japanese,also trying to be Java Developer in Japan
 <!--
 **SisypheanHUS/SisypheanHUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
