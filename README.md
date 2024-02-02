@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisypheanhus&theme=tokyonight)
 
 <img
-  src="https://github.com/<sisypheanhus>/<sisypheanhus>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/sisypheanhus/sisypheanhus/blob/main/images/stat.svg"
   alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
 />
