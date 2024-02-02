@@ -20,8 +20,8 @@ jobs:
           # Automatic github token
           GITHUB_TOKEN: ${{ github.token }}
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
-          BRANCH: "master"
+          BRANCH: "main"
           # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          COMMIT_MSG: "God update new feature to Earth BAU BAU"
           # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
           STATS_RANGE: "last_7_days"
