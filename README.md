@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <img
   src="https://github.com/sisypheanhus/sisypheanhus/blob/main/images/stat.svg"
-  alt="Remmmmmmmmmm"
+  alt="Activity Update"
 />
