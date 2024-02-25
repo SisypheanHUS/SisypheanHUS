@@ -2,7 +2,7 @@
 
 🤔 I'am studying at Ha Noi University of Science (HUS) , Vietnam National University (VNU)
 - 🌱 I’m currently learning Java and Japanese,also trying to be Java Developer in Japan
-- My favorite quote 💬 : The struggle itself ... is enough to fill a man's heart. One must imagine Sisyphus happy.
+- My favorite quote 💬 : "The struggle itself ... is enough to fill a man's heart. One must imagine Sisyphus happy."
 - Albert Camus,  Le Mythe de Sisyphe, 1942 - The Internet, 2023.
 <!--
 **SisypheanHUS/SisypheanHUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
