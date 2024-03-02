@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![gBmjkm](https://github.com/SisypheanHUS/SisypheanHUS/assets/122086282/256a6782-a3ac-44da-9618-ddf940c6af72)
 
+https://wakatime.com/badge/user/018d6a49-7696-436f-bee3-e5396b1cc291.svg
+
 
 
 ![SisypheanHUS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SisypheanHUS&theme=tokyonight&hide_border=true)
