@@ -6,7 +6,8 @@
 - Albert Camus,  Le Mythe de Sisyphe, 1942 - The Internet, 2023.
 - [![wakatime](https://wakatime.com/badge/user/018d6a49-7696-436f-bee3-e5396b1cc291.svg)](https://wakatime.com/@018d6a49-7696-436f-bee3-e5396b1cc291)
 - ![gBmjkm](https://github.com/SisypheanHUS/SisypheanHUS/assets/122086282/256a6782-a3ac-44da-9618-ddf940c6af72)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisypheanhus&theme=tokyonight)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisypheanhus&theme=dark)
+- ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=SisypheanHUS&theme=dark&show_icons=true)
 - <img
   src="https://github.com/sisypheanhus/sisypheanhus/blob/main/images/stat.svg"
   alt="Activity Update"
