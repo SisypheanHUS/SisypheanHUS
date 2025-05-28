@@ -12,6 +12,7 @@
   src="https://github.com/sisypheanhus/sisypheanhus/blob/main/images/stat.svg"
   alt="Activity Update"
 />
+- Một góc nhìn hoàn hảo đó là nhắm mắt cho qua....
 
 <!--
 **SisypheanHUS/SisypheanHUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
