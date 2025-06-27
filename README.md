@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-🤔 I'am studying at Ha Noi University of Science (HUS) , Vietnam National University (VNU)
-- 🌱 I’m currently learning Java and Japanese,also trying to be Java Developer in Japan
+👋 Hi, I’m Dinh Thai Tuan from Hanoi, Vietnam.
+🎓 I’m currently an undergraduate student majoring in Applied Mathematics at VNU – University of Science (2022–2026).
+📌 I’m passionate about quantitative finance, stochastic calculus, and mathematical modeling. My career goal is to pursue a Master's degree in Applied Mathematics in Hungary and work in investment banking or quantitative research.
+
+🧠 I enjoy combining math and programming to solve complex problems. I'm especially interested in modeling financial systems and analyzing market behaviors using statistical and machine learning methods.
+
+📈 I'm currently a Research Consultant at WorldQuant BRAIN, where I develop predictive models (alphas) using Python and WorldQuant’s internal language. My work has consistently ranked in the top 2% out of 7,000+ consultants.
+
+💻 I’ve also interned as a Software Engineer at Samsung R&D Vietnam, and participated in a research program in Mathematical Biology at NWU, Japan, where I worked on ODEs and stochastic simulations.
 - My favorite quote 💬 : "The struggle itself ... is enough to fill a man's heart. One must imagine Sisyphus happy."
 - Albert Camus,  Le Mythe de Sisyphe, 1942 - The Internet, 2023.
 - [![wakatime](https://wakatime.com/badge/user/018d6a49-7696-436f-bee3-e5396b1cc291.svg)](https://wakatime.com/@018d6a49-7696-436f-bee3-e5396b1cc291)
