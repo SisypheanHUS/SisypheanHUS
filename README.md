@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Dinh Thai Tuan from Hanoi, Vietnam.
 🎓 I’m currently an undergraduate student majoring in Applied Mathematics at VNU – University of Science (2022–2026).
-📌 I’m passionate about quantitative finance, stochastic calculus, and mathematical modeling. My career goal is to pursue a Master's degree in Applied Mathematics in Hungary and work in investment banking or quantitative research.
+📌 I’m passionate about quantitative finance, stochastic calculus, and mathematical modeling. My career goal is to pursue a Master's ( maybe PhD ? ) degree in Applied Mathematics and probably work in something fun? 
 
 🧠 I enjoy combining math and programming to solve complex problems. I'm especially interested in modeling financial systems and analyzing market behaviors using statistical and machine learning methods.
 
