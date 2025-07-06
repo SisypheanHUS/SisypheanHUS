@@ -6,7 +6,7 @@
 
 + I'm currently a Research Consultant at WorldQuant BRAIN, where I develop predictive models (alphas) using Python and WorldQuant’s internal language. My work has consistently ranked in the top 2% out of 7,000+ consultants.
 
-+ I’ve also interned at Institute of Physics, Vietnam Academy of Science and Technology (Vietnamese: Viện Hàn lâm Khoa học và Công nghệ Việt Nam) is the largest and most prominent research institute in Vietnam and participated in a research program in Mathematical Biology at NWU, Japan, where I worked on ODEs and stochastic simulations.
++ I’ve also interned at Institute of Physics, Vietnam Academy of Science and Technology and participated in a research program in Mathematical Biology at NWU, Japan, where I worked on ODEs and stochastic simulations.
 - My favorite quote 💬 : "The struggle itself ... is enough to fill a man's heart. One must imagine Sisyphus happy."
 - Albert Camus,  Le Mythe de Sisyphe, 1942 - The Internet, 2023.
 - [![wakatime](https://wakatime.com/badge/user/018d6a49-7696-436f-bee3-e5396b1cc291.svg)](https://wakatime.com/@018d6a49-7696-436f-bee3-e5396b1cc291)
