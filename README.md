@@ -4,7 +4,7 @@
 🎓 I’m currently an undergraduate student majoring in Applied Mathematics at VNU – University of Science (2022–2026).
 📌 I’m passionate about quantitative finance, stochastic calculus, and mathematical modeling. My career goal is to pursue a Master's ( maybe PhD ? ) degree in Applied Mathematics and probably work in something fun? 
 
-+ I'm currently a Research Consultant at WorldQuant BRAIN, where I develop predictive models (alphas) using Python and WorldQuant’s internal language. My work has consistently ranked in the top 2% out of 7,000+ consultants.
++ I'm currently a Research Consultant at WorldQuant, where I develop predictive models (alphas) using Python and WorldQuant’s internal language. My work has consistently ranked in the top 2% out of 7,000+ consultants.
 
 + I’ve also interned at Institute of Physics, Vietnam Academy of Science and Technology and participated in a research program in Mathematical Biology at NWU, Japan, where I worked on ODEs and stochastic simulations.
 - My favorite quote 💬 : "The struggle itself ... is enough to fill a man's heart. One must imagine Sisyphus happy."
