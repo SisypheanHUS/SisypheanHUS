@@ -23,7 +23,6 @@
 Ask me about quantitative finance, epidemic modeling, or Camus-inspired perseverance in math!  
 
 📫 **How to reach me:** dinhthaituan48@gmail.com  
-😄 **Pronouns:** He/Him  
 ⚡ **Fun fact:** My GitHub username "SisypheanHUS" nods to the eternal push in academia—endless, but rewarding!
 
 - My favorite quote 💬: "The struggle itself ... is enough to fill a man's heart. One must imagine Sisyphus happy."  
