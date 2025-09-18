@@ -5,7 +5,7 @@
 📌 I’m passionate about quantitative finance, stochastic calculus, and mathematical modeling. My career goal is to pursue a Master's (maybe PhD?) degree in Applied Mathematics and work in something fun, like quant research or AI-driven risk modeling!
 
 🔭 **I’m currently working on ...**  
-- Developing predictive alphas for financial instruments at WorldQuant BRAIN (Remote, Apr. 2024–Present). Ranked in the top 2% of 8,000+ consultants based on alpha performance, operator efficiency, and more. Recently achieved victories in internal competitions like Power Pool Alpha (78th Place, $200 prize) and ATOM 2024 (18th Final, $700 prize).  
+- Developing predictive alphas for financial instruments at WorldQuant BRAIN (Remote, Apr. 2024–Present). Ranked in the top 2% of 8,000+ consultants based on alpha performance, operator efficiency, and more till now. 
 
 + I’ve also contributed to research on epidemic modeling at Vietnam Institute for Advanced Study in Mathematics (Aug.–Nov. 2025), stochastic simulations in Mathematical Biology at Nara Women’s University, Japan (Aug. 2025), and deep learning for Raman Spectroscopy at the Institute of Physics, Vietnam Academy of Science and Technology (July 2025–Present). There, I compared 1D vs. 2D CNNs for detecting methanol in ethanol mixtures.
 
