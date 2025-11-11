@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Hi, I’m Dinh Thai Tuan from Hanoi, Vietnam.  
+ I’m Dinh Thai Tuan from Hanoi, Vietnam.  
  I’m currently an undergraduate student majoring in Applied Mathematics at VNU – University of Science (2022–2026).  
  I’m passionate about quantitative finance, stochastic calculus, and mathematical modeling. My career goal is to pursue a Master's (maybe PhD?) degree in Applied Mathematics and work in something fun, like quant research or AI-driven risk modeling!
 
