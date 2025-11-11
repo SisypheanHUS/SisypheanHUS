@@ -1,21 +1,21 @@
 ### Hi there 👋
 
-👋 Hi, I’m Dinh Thai Tuan from Hanoi, Vietnam.  
-🎓 I’m currently an undergraduate student majoring in Applied Mathematics at VNU – University of Science (2022–2026).  
-📌 I’m passionate about quantitative finance, stochastic calculus, and mathematical modeling. My career goal is to pursue a Master's (maybe PhD?) degree in Applied Mathematics and work in something fun, like quant research or AI-driven risk modeling!
+ Hi, I’m Dinh Thai Tuan from Hanoi, Vietnam.  
+ I’m currently an undergraduate student majoring in Applied Mathematics at VNU – University of Science (2022–2026).  
+ I’m passionate about quantitative finance, stochastic calculus, and mathematical modeling. My career goal is to pursue a Master's (maybe PhD?) degree in Applied Mathematics and work in something fun, like quant research or AI-driven risk modeling!
 
 
-🌱 **I’m currently learning ...**  
+ **I’m currently learning ...**  
 - Advanced stochastic processes and deep learning applications in quantitative risk management.  
 - Honing skills in R for epidemic modeling (from NWU project) and Python/Java for quant finance.
 
-👯 **I’m looking to collaborate on ...**  
+ **I’m looking to collaborate on ...**  
 - Open-source projects in mathematical modeling, quant finance simulations, or AI for scientific data analysis.  
 - Feel free to reach out for joint research or competitions!
 
 Ask me about quantitative finance, epidemic modeling, or Camus-inspired perseverance in math!  
 
-📫 **How to reach me:** dinhthaituan48@gmail.com  
+ **How to reach me:** dinhthaituan48@gmail.com  
 
 - My favorite quote 💬: "The struggle itself ... is enough to fill a man's heart. One must imagine Sisyphus happy."  
   — Albert Camus, *Le Mythe de Sisyphe*, 1942  
