@@ -9,8 +9,6 @@ Contact: dinhthaituan48@gmail.com
 
 ![gBmjkm](https://github.com/SisypheanHUS/SisypheanHUS/assets/122086282/256a6782-a3ac-44da-9618-ddf940c6af72)  
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=SisypheanHUS&theme=dark&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SisypheanHUS&theme=dark&layout=compact)  
 
 <img src="https://github.com/SisypheanHUS/SisypheanHUS/blob/main/images/stat.svg" alt="Activity Update" width="500" />  
 
