@@ -1,6 +1,6 @@
-### ?
+### -------------------------
 Hi, I’m Dinh Thai Tuan from Hanoi, Vietnam.
-Undergraduate student in Applied Mathematics at VNU–University of Science (2022–2026).
+Undergrad in Applied Mathematics at VNU–University of Science .
 
 
 Contact: dinhthaituan48@gmail.com
