@@ -1,6 +1,6 @@
 ### -------------------------
 Hi, I’m Dinh Thai Tuan from Hanoi, Vietnam.  
-  Math & CS Student at heart.  
+  Math & CS Student at heart.  AI Engineer Intern at the moment.
     My research involving AI + Physics, sometimes a little math if needed.
 Recently I finally decide to pursue academic studies, probably in Mathematics Applied in general, Neural Network in specify. 
 I also want to do some finance-related project, so ping me if you want to collab.
