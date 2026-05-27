@@ -14,7 +14,6 @@ Contact: dinhthaituan48@gmail.com
 
 <img src="https://github.com/SisypheanHUS/SisypheanHUS/blob/main/images/stat.svg" alt="Activity Update" width="500" />  
 
-And yes. I do miss that red-scarf girl. 
 
 
 
