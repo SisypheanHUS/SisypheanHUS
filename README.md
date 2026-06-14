@@ -1,9 +1,11 @@
 ### -------------------------
-Hi, I’m Dinh Thai Tuan from Hanoi, Vietnam.  
-  Math & CS Student at heart.  AI Engineer Intern at the moment.
-    My research involving AI + Physics, sometimes a little math if needed.
-Recently I finally decide to pursue academic studies, probably in Mathematics Applied in general, Neural Network in specify. 
-I also want to do some finance-related project, so ping me if you want to collab.
+Hi, I'm Dinh Thai Tuan from Hanoi, Vietnam.
+
+I am currently pursuing a Master's degree in Mathematics, with interests in quantitative finance, machine learning, and applied mathematics.
+
+My work focuses on applying mathematical modeling, statistical methods, and deep learning techniques to financial and real-world problems. I am currently conducting research on implied volatility surfaces and pricing distortions in Vietnam's covered warrant market, while also exploring quantitative trading, time-series analysis, and derivative pricing.
+
+I enjoy building data-driven models that bridge theory and practical applications.
 
 Contact: dinhthaituan48@gmail.com
 
